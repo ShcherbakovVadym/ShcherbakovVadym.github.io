@@ -119,6 +119,7 @@ body {
 	border: none;
 	border-bottom: 1px solid grey;
 	padding-left: 15px;
+	color: #fff;
 }
 .first-name input {
 	background-color: #1b5288;
